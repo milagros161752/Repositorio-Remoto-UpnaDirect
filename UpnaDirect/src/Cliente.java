@@ -2,6 +2,7 @@
  * Clase que representa a un cliente.
  */
 public class Cliente {
+    // Comentario añadido para realizar un commit
     private String nombre;
     private int anioNacimiento;
     private double salario;
