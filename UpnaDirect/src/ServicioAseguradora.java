@@ -3,6 +3,7 @@ import java.util.List;
 
 /**
  * Clase que contiene la lógica de negocio para obtener la mejor oferta.
+ * Añadir la lógica de cálculo y comparación de ofertas.
  */
 public class ServicioAseguradora {
     /**
