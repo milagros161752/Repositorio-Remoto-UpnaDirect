@@ -1,5 +1,6 @@
 /**
  * Clase que actúa como intermediario entre la vista y el modelo.
+ * Añadir la lógica de validación y procesamiento.
  */
 public class Presentador {
     private ConsolaVista vista;
